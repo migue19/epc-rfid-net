@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>epc_rfid_net.Model</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CSLibrary">
+      <HintPath>..\..\CSL-Multireader-Simple-Demo\lib\CSLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="CSLibrary.Data.SQLite">
+      <HintPath>..\..\CSL-Multireader-Simple-Demo\lib\CSLibrary.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="CSLibrary.Diagnostics">
+      <HintPath>..\..\CSL-Multireader-Simple-Demo\lib\CSLibrary.Diagnostics.dll</HintPath>
+    </Reference>
+    <Reference Include="CSLibrary.Windows">
+      <HintPath>..\..\CSL-Multireader-Simple-Demo\lib\CSLibrary.Windows.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

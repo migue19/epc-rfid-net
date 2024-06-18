@@ -1,0 +1,12 @@
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\bin\Debug\net8.0\epc-rfid-net.Model.deps.json
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\bin\Debug\net8.0\epc-rfid-net.Model.dll
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\bin\Debug\net8.0\epc-rfid-net.Model.pdb
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\epc-rfid-net.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\epc-rfid-net.Model.AssemblyInfoInputs.cache
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\epc-rfid-net.Model.AssemblyInfo.cs
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\epc-rfid-net.Model.csproj.CoreCompileInputs.cache
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\epc-rfid-net.Model.dll
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\refint\epc-rfid-net.Model.dll
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\epc-rfid-net.Model.pdb
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\ref\epc-rfid-net.Model.dll
+C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\obj\Debug\net8.0\epc-rfid-net.Model.csproj.AssemblyReference.cache

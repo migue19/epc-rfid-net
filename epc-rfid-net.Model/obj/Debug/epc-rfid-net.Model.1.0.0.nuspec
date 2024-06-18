@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>epc-rfid-net.Model</id>
+    <version>1.0.0</version>
+    <authors>epc-rfid-net.Model</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Dapper" version="2.1.35" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\josel\source\repos\epc-rfid-net\epc-rfid-net.Model\bin\Debug\net8.0\epc-rfid-net.Model.dll" target="lib\net8.0\epc-rfid-net.Model.dll" />
+  </files>
+</package>
